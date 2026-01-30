@@ -16,10 +16,11 @@ Calculará tu promedio, Mostrará el resultado en el campo Promedio.  Si el prom
 Si el promedio es 69 o menor, se habilita Completivo.
 Si con el completivo llegas a 70 o más, quedas Aprobado y no usas extraordinario.
 
-Contexto Académico - Nivel: Secundaria Técnico Profesional
-- Módulo Formativo: Desarrollo de aplicaciones
-- Curso: 5to d-2 2025
-  
-Autor: 
-Lisnanyery Esther de Jesus Ruiz
+Contexto Académico:
+Nivel: Secundaria Técnico Profesional
+Módulo Formativo: Desarrollo de aplicaciones
+Curso / Sección:5to-D2
+Año escolar:5to de secundaria
+
+Autor: Lisnanyery Esther de Jesus Ruiz
 
