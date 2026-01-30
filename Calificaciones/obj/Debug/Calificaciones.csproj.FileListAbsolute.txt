@@ -1,0 +1,11 @@
+C:\Yuquita\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Yuquita\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Yuquita\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Yuquita\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.AssemblyReference.cache
+C:\Yuquita\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Form1.resources
+C:\Yuquita\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+C:\Yuquita\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.cache
+C:\Yuquita\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Yuquita\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Yuquita\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Yuquita\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe.config
