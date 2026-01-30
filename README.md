@@ -3,14 +3,12 @@ El ejercicio consiste en crear un formulario que permita calcular las 4 notas de
 
 imagenes de ejecucion del codigo
 
-<img width="408" height="251" alt="primera" src="https://github.com/user-attachments/assets/b89d2782-43e5-4bdc-9f9c-4577a9eb6935" />
-<img width="400" height="239" alt="1" src="https://github.com/user-attachments/assets/9b681670-207b-46d5-b42f-e664eaf2057f" />
-<img width="398" height="242" alt="2" src="https://github.com/user-attachments/assets/f5dd5cfc-dfc2-464c-b0ec-b45bb46f684e" />
-<img width="395" height="240" alt="3" src="https://github.com/user-attachments/assets/3ff9e82e-e349-4f7f-a877-4603143ef008" />
-<img width="399" height="238" alt="buenaaaaaaaaaaaa" src="https://github.com/user-attachments/assets/d7ab242e-9e7f-4d40-88d5-3eb209d6c3a3" />
-<img width="401" height="242" alt="lisi" src="https://github.com/user-attachments/assets/09934475-ff8f-4bc2-8cb1-94bb9c5644bc" />
-
-
+<img width="408" height="251" alt="primera" src="https://github.com/user-attachments/assets/0aabc6d9-5068-4e0c-a159-93f252253fea" />
+<img width="400" height="239" alt="1" src="https://github.com/user-attachments/assets/3be0dbe0-9473-4fb8-8144-5cd082102ea4" />
+<img width="398" height="242" alt="2" src="https://github.com/user-attachments/assets/3232be5a-9069-4f23-8c1c-d2e09af766e3" />
+<img width="395" height="240" alt="3" src="https://github.com/user-attachments/assets/141b77be-e933-48ba-9a37-3790e96a75e2" />
+<img width="399" height="238" alt="buenaaaaaaaaaaaa" src="https://github.com/user-attachments/assets/b45a9fb2-05a6-40ce-9c0e-b1f287b9bd93" />
+<img width="401" height="242" alt="lisi" src="https://github.com/user-attachments/assets/35eb5eef-d433-4be7-b8d4-f2c2d65fdee1" />
 
 Ingresa tus notas donde dice nota 1,2,3,4 Cuando hayas ingresado todas las notas, haz clic en el botón Calcular.El sistema hará lo siguiente automáticamente:
 Calculará tu promedio, Mostrará el resultado en el campo Promedio.  Si el promedio es mayor a 69, el sistema muestra “Aprobado” y no habilita otros campos.
